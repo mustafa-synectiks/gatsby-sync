@@ -1,0 +1,2 @@
+webpackJsonp([0x7f477efff5a9],{212:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var a=u(1),f=n(a),l=function(){return f.default.createElement("div",null,f.default.createElement("h1",null,"This is our Transformation Page"))};t.default=l,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-transformation-js-66637d90025e2715e67b.js.map

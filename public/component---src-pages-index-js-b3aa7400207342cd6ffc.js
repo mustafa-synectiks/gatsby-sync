@@ -1,0 +1,2 @@
+webpackJsonp([35783957827783],{210:function(e,t,l){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var u=l(1),s=n(u),a=l(22),c=(n(a),function(){return s.default.createElement("div",null,s.default.createElement("h1",null,"Welcome to Synectiks website"),s.default.createElement("p",null,"This is a Synectiks site for the Synectiks"))});t.default=c,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-index-js-b3aa7400207342cd6ffc.js.map

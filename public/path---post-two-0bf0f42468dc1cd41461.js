@@ -1,0 +1,2 @@
+webpackJsonp([4430129151547],{348:function(t,o){t.exports={data:{markdownRemark:{html:"<p>This is my second post in Gatsby</p>",frontmatter:{path:"/post-two",title:"My Second Gatsby Post",author:"John Doe",date:"2018-04-10"}}},pathContext:{}}}});
+//# sourceMappingURL=path---post-two-0bf0f42468dc1cd41461.js.map
